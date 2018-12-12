@@ -1,0 +1,17 @@
+aiodns
+aiohttp
+aredis
+cchardet
+configargparse
+cytoolz
+hiredis
+pipenv
+pygtrie
+python-json-logger
+python-rapidjson
+sanic
+structlog
+ujson
+uvloop
+websockets
+async-timeout
